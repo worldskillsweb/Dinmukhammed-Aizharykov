@@ -574,5 +574,85 @@ footer  {
     background-color: black;
     height: 180px;
     margin: 2870px 0px 0px 0px;    
-    bottom: 0;width: 100%;
+    bottom: 0;
+    width: 100%;
+}
+
+footer .footer_info img {
+    width: 150px;
+    height: 50px;
+    margin: 30px 0px 0px 150px;
+}
+
+
+footer .footer_info h1 {
+    color: white;
+    font-size: 30px;
+    position: absolute;
+    margin: -55px 0px 0px 285px;
+    width: 300px;
+    font-weight: 100;
+}
+
+
+
+footer .fa-youtube-play {
+    width: 200px;
+    color: white;
+    position: absolute;
+    font-size: 25px;
+    margin: -30px 0px 0px 850px;
+}
+
+
+footer .social_media .socialmedia {
+    font-size: 15px;
+    color: white;
+    position: absolute;
+    font-weight: 100;
+    margin: -55px 0px 0px 850px;
+}
+
+
+footer .social_media .youtubelink {
+    font-size: 15px;
+    color: white;
+    position: absolute;
+    font-weight: 100;
+    margin: -25px 0px 0px 890px;
+}
+
+
+footer .social_media .fa-telegram {
+    font-size: 25px;
+    width: 200px;
+    color: white;
+    position: absolute;
+    margin: 5px 0px 0px 850px;
+}
+
+footer .social_media .telegram {
+    font-size: 15px;
+    color: white;
+    position: absolute;
+    font-weight: 100;
+    margin: 10px 0px 0px 890px;
+}
+
+
+
+footer .social_media .fa-instagram {
+    font-size: 25px;
+    width: 200px;
+    color: white;
+    position: absolute;
+    margin: 40px 0px 0px 850px;
+}
+
+footer .social_media .instagram {
+    font-size: 15px;
+    color: white;
+    position: absolute;
+    font-weight: 100;
+    margin: 45px 0px 0px 890px;
 }
