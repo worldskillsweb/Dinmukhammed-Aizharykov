@@ -10,7 +10,6 @@ body {
     color: 000;
     margin: 0;
     padding: 0;
-    height: 520vh;
     font-family: 'League Spartan', sans-serif;
 }
 
@@ -18,6 +17,7 @@ body {
 section {
     margin: 0px 0px 0px 150px;
 }
+
 
 /* header_bg and header info  */
 
@@ -121,17 +121,17 @@ section {
 /* nav_bar */
 
 
-.nav_bar {
+.nav_links {
     margin: 100px 0px 0px 0px;
 }
 
-.nav_bar button a {
+.nav_links button a {
     text-decoration: none;
     color: white;
     text-align: center;
 }
 
-.nav_bar button {
+.nav_links button {
     background-color: #0085FF;
     border: none;
     height: 30px;
@@ -142,7 +142,7 @@ section {
 
 
 
-.nav_bar button:hover {
+.nav_links button:hover {
     background-color: #014b91 ;
 }
 
@@ -266,4 +266,313 @@ section {
     text-align: center;
     width: 300px;
     font-family: 'Fredoka', sans-serif;
+}
+
+
+
+/* third section */
+
+
+
+.third_section .section_maininfo h1 {
+    color: #0085FF;
+    font-size: 35px;
+    position: absolute;
+    margin: 450px 0px 0px 230px;
+}
+
+
+
+.first_block i {
+    color: #0085FF;
+    font-size: 125px;
+    margin: 570px  0px 0px 100px;
+    position: absolute;
+}
+
+.first_block h1 {
+    color: #0085FF;
+    font-size: 30px;
+    position: absolute;
+    margin:  730px 0px 0px 80px;
+}
+
+
+.third_section .first_block h2 {
+    color: black;
+    font-size: 20px;
+    position: absolute;
+    margin: 780px 0px 0px 65px;
+    width: 200px;
+    text-align: center;
+}
+
+
+
+.third_section .second_block i {
+    color: #0085FF;
+    font-size: 125px;
+    position: absolute;
+    margin: 570px 0px 0px 460px;
+}
+
+
+.third_section .second_block h1 {
+    color: #0085FF;
+    font-size: 30px;
+    position: absolute;
+    margin: 730px 0px 0px 395px;
+}
+
+
+.third_section .second_block h2 {
+    color: black;
+    font-size: 20px;
+    position: absolute;
+    margin: 780px 0px 0px 365px;
+    width: 300px;
+    text-align: center;
+}
+
+
+
+.third_section .third_block i {
+    color: #0085FF;
+    font-size: 125px;
+    margin: 570px 0px 0px 850px;
+    position: absolute;
+}
+
+
+.third_section .third_block h1 {
+    color: #0085FF;
+    font-size: 30px;
+    margin: 730px 0px 0px 860px;
+    position: absolute;
+}
+
+
+.third_section .third_block h2 {
+    color: black;
+    font-size: 20px;
+    position: absolute;
+    margin: 780px 0px 0px 760px;
+    width: 300px;
+    text-align: center;
+}
+
+/* forth section */
+
+.forth_section .section_block-info {
+    margin: 1200px 0px 0px 0px;
+}
+
+.forth_section .section_block-info h1 {
+    position: absolute;
+    color: #0085FF;
+    font-size: 40px;
+}
+
+.forth_section .section_block-info h2 {
+    color: black;
+    margin: 55px 0px 0px 0px;
+    position: absolute;
+    font-size: 30px;
+}
+
+
+.forth_section .first .block {
+    width: 300px;
+    height: 300px;
+    margin: 120px 0px 0px 0px;
+    border: 1px solid black;
+    position: absolute;
+    transition: all .4s ease;
+}
+
+
+.forth_section .first .block:hover {
+    box-shadow: 2px 3px 3px black;
+}
+
+.forth_section .first {
+    transition: all 0.4s ease;
+}
+
+.forth_section .first:hover {
+    transform: translateY(-20px);
+    
+    text-shadow: 2px 3px 3px rgba(0, 0, 255, 0.336);
+}
+
+
+.forth_section .first .fa-codepen {
+    color: #0085FF;
+    font-size: 40px;
+    margin: 150px 0px 0px 30px;
+    position: absolute;
+}
+
+
+.forth_section .first h1 {
+    color: #0085FF;
+    font-size: 30px;
+    position: absolute;
+    margin: 200px 0px 0px 30px;
+}
+
+
+
+
+
+.forth_section .first h2 {
+    color: black;
+    font-size: 20px;
+    position: absolute;
+    width: 280px;
+    margin: 270px 0px 0px 30px;
+}
+
+
+
+.forth_section .second {
+    margin: 0px 0px 0px -30px;
+}
+
+
+
+.forth_section .second .block {
+    width: 300px;
+    height: 300px;
+    margin: 120px 0px 0px 430px;
+    border: 1px solid black;
+    position: absolute;
+    transition: all .4s ease;
+}
+
+
+.forth_section .second .block:hover {
+    box-shadow: 2px 3px 3px black;
+}
+
+.forth_section .second {
+    transition: all 0.4s ease;
+}
+
+.forth_section .second:hover {
+    transform: translateY(-20px);
+    
+    text-shadow: 2px 3px 3px rgba(0, 0, 255, 0.336);
+}
+
+
+.forth_section .second .fa-codepen {
+    color: #0085FF;
+    font-size: 40px;
+    margin: 150px 0px 0px 460px;
+    position: absolute;
+}
+
+
+.forth_section .second h1 {
+    color: #0085FF;
+    font-size: 30px;
+    position: absolute;
+    margin: 200px 0px 0px 460px;
+}
+
+
+
+
+
+.forth_section .second h2 {
+    color: black;
+    font-size: 20px;
+    position: absolute;
+    width: 250px;
+    margin: 270px 0px 0px 460px;
+}
+
+
+
+
+
+
+
+.forth_section .third .block {
+    width: 300px;
+    height: 300px;              
+    margin: 120px 0px 0px 810px;
+    border: 1px solid black;
+    position: absolute;
+    transition: all .4s ease;
+}
+
+
+.forth_section .third .block:hover {
+    box-shadow: 2px 3px 3px black;
+}
+
+.forth_section .third {
+    transition: all 0.4s ease;
+}
+
+.forth_section .third:hover {
+    transform: translateY(-20px);
+    
+    text-shadow: 2px 3px 3px rgba(0, 0, 255, 0.336);
+}
+
+
+.forth_section .third .fa-codepen {
+    color: #0085FF;
+    font-size: 40px;
+    margin: 150px 0px 0px 830px;
+    position: absolute;
+}
+
+
+.forth_section .third h1 {
+    color: #0085FF;
+    font-size: 30px;
+    position: absolute;
+    margin: 200px 0px 0px 830px;
+}
+
+
+
+
+
+.forth_section .third h2 {
+    color: black;
+    font-size: 20px;
+    position: absolute;
+    width: 250px;
+    margin: 270px 0px 0px 830px;
+}
+
+
+.fifth_section h1 {
+    color: #0085FF;
+    position: absolute;
+    margin: 900px 0px 0px 350px;
+    font-size: 70px;
+    text-shadow: 1px 1px 8px blue;
+}
+
+
+.fifth_section h1 a {
+    text-decoration: none;
+    color: #0085FF;
+}
+
+
+
+
+
+footer  {
+    background-color: black;
+    height: 180px;
+    margin: 2870px 0px 0px 0px;    
+    bottom: 0;width: 100%;
 }
