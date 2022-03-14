@@ -1,0 +1,214 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+/* 
+/* font-family: 'Fredoka', sans-serif; */
+/* https://fontawesome.ru/icon/instagram/ */ */
+
+body {
+    color: 000;
+    margin: 0;
+    padding: 0;
+    font-family: 'League Spartan', sans-serif;
+}
+
+
+section {
+    margin: 0px 0px 0px 150px;
+}
+
+
+/* header_bg and header info  */
+
+.header_bg {
+    height: 50px;
+    background-color: #0085FF;
+}
+
+.header_info .fa-map-marker {
+    margin: -37px 0px 0px 150px;
+    font-size: 25px;
+    color: white;
+    position: absolute;
+}
+
+
+.header_info h1 {
+    color: white;
+    font-size: 15px;
+    position: absolute;
+    margin: -32px 0px 0px 180px;
+    font-weight: 100;
+}
+
+.header_info .fa-user-circle-o {
+    margin: -37px 0px 0px 1210px;
+    font-size: 25px;
+    font-weight: 100;
+    color:white;
+    position: absolute;
+}
+
+
+
+
+.header_info h2 {
+    margin: -30px 0px 0px 1160px;   
+    font-size: 15px;
+    font-weight: 400;
+    color:white;
+    position: absolute;
+}
+
+
+
+
+/* main header */
+
+
+.main_header img {
+    width: 250px;
+    height: 150px;
+    margin: 50px 0px 0px 150px;
+}
+
+
+
+.main_header .logo_name {
+    color: #0085FF;
+    margin: -150px 0px 0px 420px;
+    position: absolute;
+    font-weight: 100;
+    font-size: 40px;
+    width: 400px;
+}
+
+
+
+
+.main_header .about_us {
+    color: #0085FF;
+    position: absolute;
+    margin: -130px 0px 0px 1000px;
+    font-weight: 100;
+    font-size: 20px;   
+}
+
+.main_header .fa-users {
+    font-size: 20px;
+    color: #0085FF;
+    margin: -133px 0px 0px 970px;
+    position: absolute;
+}
+
+.main_header .fa-code {
+    position: absolute;
+    color: #0085FF;
+    font-size: 20px;
+    margin: -133px 0px 0px 1100px;
+}
+
+
+.main_header .questions {
+    position: absolute;
+    color: #0085FF;
+    font-size: 20px;
+    font-weight: 100;
+    margin: -131px 0px 0px 1128px;
+}
+
+
+
+
+
+
+
+
+
+footer  {
+    background-color: black;
+    height: 180px;
+    margin: 2870px 0px 0px 0px;    
+    bottom: 0;
+    width: 100%;
+}
+
+footer .footer_info img {
+    width: 150px;
+    height: 50px;
+    margin: 30px 0px 0px 150px;
+}
+
+
+footer .footer_info h1 {
+    color: white;
+    font-size: 30px;
+    position: absolute;
+    margin: -55px 0px 0px 285px;
+    width: 300px;
+    font-weight: 100;
+}
+
+
+
+footer .fa-youtube-play {
+    width: 200px;
+    color: white;
+    position: absolute;
+    font-size: 25px;
+    margin: -30px 0px 0px 850px;
+}
+
+
+footer .social_media .socialmedia {
+    font-size: 15px;
+    color: white;
+    position: absolute;
+    font-weight: 100;
+    margin: -55px 0px 0px 850px;
+}
+
+
+footer .social_media .youtubelink {
+    font-size: 15px;
+    color: white;
+    position: absolute;
+    font-weight: 100;
+    margin: -25px 0px 0px 890px;
+}
+
+
+footer .social_media .fa-telegram {
+    font-size: 25px;
+    width: 200px;
+    color: white;
+    position: absolute;
+    margin: 5px 0px 0px 850px;
+}
+
+footer .social_media .telegram {
+    font-size: 15px;
+    color: white;
+    position: absolute;
+    font-weight: 100;
+    margin: 10px 0px 0px 890px;
+}
+
+
+
+footer .social_media .fa-instagram {
+    font-size: 25px;
+    width: 200px;
+    color: white;
+    position: absolute;
+    margin: 40px 0px 0px 850px;
+}
+
+footer .social_media .instagram {
+    font-size: 15px;
+    color: white;
+    position: absolute;
+    font-weight: 100;
+    margin: 45px 0px 0px 890px;
+}
